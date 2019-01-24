@@ -5,7 +5,6 @@ class View
 	def create_gossip
 
 		puts "autor"
-
 		print '>'
 		author = gets.chomp
 		puts "contenir"
